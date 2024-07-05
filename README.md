@@ -1,4 +1,4 @@
-# banking_app_ui
+# flutter_bank_app_prototype
 
 A new Flutter project.
 
